@@ -1,4 +1,4 @@
-# Copyright Drew Nutter
+// Copyright Drew Nutter
 #include <stdio.h>
 #include <time.h>
 #include <math.h>
