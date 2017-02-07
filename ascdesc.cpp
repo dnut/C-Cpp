@@ -12,7 +12,7 @@ using std::sort;
 typedef vector<string>::const_iterator vs_iter;
 
 std::unordered_set<char> scenders = {
-	'i', 'b', 'd', 'f', 'h', 'k', 'l', 't', 'g', 'j', 'p', 'q', 'y'
+	'b', 'd', 'f', 'h', 'k', 'l', 't', 'g', 'j', 'p', 'q', 'y'
 };
 
 string invert(string const& s) {
