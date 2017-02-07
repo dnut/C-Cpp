@@ -1,3 +1,9 @@
+# What is this?
+This is just a sample of some of my work with C and C++ until I get a completed project uploaded on GitHub. ```pi.c``` and ```pi.cpp``` are very poor indications of my ability so I have moved them to ```bad```. ```ascdesc.cpp``` is just a quick example I put together to show that I am capable of programming in C++.
+
+# ascdesc.cpp
+The function ```find()``` parses a string and returns a vector of words without ascender or descender characters. Then we find the biggest one and print that. For example, "The seam remains where it belongs," will result in "remain" being printed.
+
 # pi
 Calculate pi using random number generator and pythagorean theorem. One solution in C and the other in C++ using boost libraries.
 
